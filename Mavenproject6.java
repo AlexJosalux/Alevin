@@ -16,6 +16,7 @@ public class Mavenproject6 {
         double base;
         double altura;
         Scanner leer = new Scanner(System.in);
+        System.out.println("A R E A   D E L   T R I A N G U L O");
         System.out.println("Ingresar la base del triangulo:");
         base=leer.nextDouble();
         System.out.println("Ingresar la altura del triangulo");
@@ -25,6 +26,7 @@ public class Mavenproject6 {
          System.out.println("=======================================");
          //Calcular el area del circulo
          //CIRCULO
+         System.out.println("A R E A   D E L   C I R C U L O");
         double radio;
         System.out.println("Ingresar el radio del circulo");
         radio=leer.nextDouble();
